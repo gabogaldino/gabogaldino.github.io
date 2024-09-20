@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site language
-lang: en-US
+lang: pt-BR
 
 # Site title
-title: "Scriptor"
+title: "Gabo Galdino"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Application Security"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
